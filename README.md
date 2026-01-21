@@ -91,10 +91,10 @@ A console-based calculator that performs basic arithmetic operations.
 
 The following projects will be added to this repository as part of continuous learning:
 
-* Calculator with History
+📌 Calculator with History
 * Number Guessing Game
 * Student Management System
-* To-Do List Application
+📌 To-Do List Application
 * Library Management System
 * Banking System
 * Inventory Management System
