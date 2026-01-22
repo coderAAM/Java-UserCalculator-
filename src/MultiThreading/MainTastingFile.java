@@ -1,6 +1,6 @@
 package MultiThreading;
-
-public class MainTastingFile extends Thread {
+// extent Thread
+public class MainTastingFile implements Runnable {
     @Override
     public void run() {
         for (; ;){

@@ -4,8 +4,12 @@ public class Testing {
 
 
     static void main() {
+
         MainTastingFile mainTastingFile = new MainTastingFile();
-        mainTastingFile.start();
+        Thread t1 = new Thread(mainTastingFile);
+        t1.start();
+
+
         for (; ;){
             System.out.println("world");
         }
